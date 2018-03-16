@@ -1,0 +1,1 @@
+Funny little snippit. Because the preprocessor expands macros/includes and essentially copy-pastes the contents into where they were included during the compilation process, you can put main() in the .h file. :)
